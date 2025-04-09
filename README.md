@@ -17,7 +17,7 @@ Millions of people face difficulties accessing timely medical help due to lack o
 
 1️⃣ A dataset from Kaggle which has 4920 samples with 132 symptom-based features and 41 unique disease categories was used in this study.  
 2️⃣ The symptoms are represented in a binary format, 0 for absence, 1 for presence.  
-3️⃣ Dataset [Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW5hNnhFYTFmMHpMSW9vZjl2NmtMZXpsZHRSd3xBQ3Jtc0ttbVBtalJ2M1g4NGVPU3dhMmg1T0JybktYT2lZMGhmbTRQUjNhQ04wOHJXWmJvckFGVHNWQnEwQVpPRmVIZ1ZvZnNEcVI3bzhrZS1HY0c4M1h1UGE0RnlBRGpONTRfeDBCSUZNdDZxX2lFcTI2eTFFMA&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fnoorsaeed%2Fmedicine-recommendation-system-dataset&v=1xHU20MgvqI) 
+3️⃣ Dataset [Link](https://www.kaggle.com/datasets/noorsaeed/medicine-recommendation-system-dataset) 
 
 ## 🔧 Installation & Usage
 
