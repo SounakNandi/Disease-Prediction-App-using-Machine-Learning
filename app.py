@@ -44,7 +44,7 @@ class MedicalDiagnosisSystem(QMainWindow):
         """Load the ML model and related data"""
         try:
             # Load the SVC model
-            self.model = pickle.load(open('svc.pkl', 'rb'))
+            self.model = pickle.load(open('model.pkl', 'rb'))
             
             # Load datasets
             self.sym_des = pd.read_csv("./archive/symtoms_df.csv")
